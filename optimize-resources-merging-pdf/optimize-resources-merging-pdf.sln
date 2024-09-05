@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "optimize-resources-merging-pdf", "optimize-resources-merging-pdf.csproj", "{DAB02D78-0684-4AE2-AD2A-2B0D7607C489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB02D78-0684-4AE2-AD2A-2B0D7607C489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB02D78-0684-4AE2-AD2A-2B0D7607C489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB02D78-0684-4AE2-AD2A-2B0D7607C489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB02D78-0684-4AE2-AD2A-2B0D7607C489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4664BF-BEBA-4548-A9BA-3A428E4CAF5F}
+	EndGlobalSection
+EndGlobal

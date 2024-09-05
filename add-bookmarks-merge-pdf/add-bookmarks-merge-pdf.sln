@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "add-bookmarks-merge-pdf", "add-bookmarks-merge-pdf.csproj", "{260C039F-5194-4892-B2B9-F09DAB7713EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260C039F-5194-4892-B2B9-F09DAB7713EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260C039F-5194-4892-B2B9-F09DAB7713EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260C039F-5194-4892-B2B9-F09DAB7713EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260C039F-5194-4892-B2B9-F09DAB7713EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8B75FEC-D83E-4D48-98CB-F542607A730A}
+	EndGlobalSection
+EndGlobal
